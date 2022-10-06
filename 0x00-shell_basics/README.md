@@ -1,1 +1,1 @@
-immersion into shell basics
+#description of the scripts
